@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "HÔM NAY LÀ 20/10 ĐẤYYY"",
+    titleWeb: "HÔM NAY LÀ 20/10 ĐẤYYY NHÓ"",
     introTitle: 'Nhé các bạn nữ xinh đẹp của lớp 11 Anh !',
     introDesc: `Trái đất tròn, lòng tôi góc cạnh
     Ngày bạn đến, lòng tôi bằng phẳng
