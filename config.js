@@ -15,6 +15,6 @@ const CONFIG = {
     reply: 'Các bạn con trai lớp mình tâm lý ghê á. Cảm ơn vì đã chúc bọn mình 20/10 nha. Các cậu xứng đáng 10 người yêu',
     mess: 'Bọn tao cảm ơn nha, biết là chúng mày sẽ nói thế mà hihi 😘😘',
     messDesc: 'Nói vậy chứ, 20/10 phải thật vui vẻ nhé, thỏa sức mà chơi, bỏ lại deadlines và XÕA HẾT MÌNH đó nha!! Hôm nay là ngày của chúng mày. Chúng mày là những công chúa lộng lẫy nhất không chỉ hôm nay mà còn là 364 ngày còn lại nữa. Bấm Oke để xem những chân tình của các bạn nam nha:',
-    btnAccept: 'Okiiiii lun. Để tao chờ đợi xem chúng mày làm gì nha !!',
+    btnAccept: 'Okiiiii lun. Để tao chờ đợi xem chúng mày làm gì nha !',
     messLink: 'https://youtu.be/8McC1UtG0H4' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
